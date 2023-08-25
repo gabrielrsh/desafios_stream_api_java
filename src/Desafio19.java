@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Desafio19 {
-    private List<Integer> numeros = Arrays.asList(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2);
+    private List<Integer> numeros = Arrays.asList(1,1,1,1,1,1,1,1,1,1,1,1);
 
     public void verificaSeTodosNumerosSaoIguais() {
 

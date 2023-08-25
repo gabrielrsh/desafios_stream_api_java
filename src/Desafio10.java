@@ -6,7 +6,7 @@ public class Desafio10 {
 
     public void agruparMultiplos3e5() {
         
-        numeros.stream().filter(n-> n % 3 == 0 || n % 5 == 0).toList().forEach(n-> System.out.print(n + " "));;
+        numeros.stream().filter(n-> n % 3 == 0 || n % 5 == 0).toList().forEach(n-> System.out.print(n + " "));
     }
 
     public static void main(String[] args) {
